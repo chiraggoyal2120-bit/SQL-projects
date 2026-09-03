@@ -17,7 +17,7 @@ This project answers critical business questions using advanced SQL queries, inc
 
 ## 📁 Repository Structure
 * `Online Book Store.sql`: The SQL script containing the database schema, table creation, and all executed business queries.
-* *Data Files: books.csv, orders.csv, customers.csv*
+* *Data Files: Books.csv, Orders.csv, Customers.csv*
 
 ## 🚀 How to Run
 1. Install PostgreSQL and a management tool like pgAdmin.
